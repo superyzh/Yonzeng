@@ -7,4 +7,6 @@
 
 # 测试reset操作
 ## 测试reset操作2
+
+# 在github上修改后通过pull命令同步到本地仓库 git pull
 :+1:
