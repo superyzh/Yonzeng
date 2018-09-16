@@ -12,5 +12,6 @@
 
 
 # create a new branch first time ！
-# creating a new branch is quick & simple.
+
+# creating a new brach is quick and simple 
 :+1:
