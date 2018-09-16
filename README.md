@@ -12,4 +12,5 @@
 
 
 # create a new branch first time ！
+# creating a new branch is quick & simple.
 :+1:
