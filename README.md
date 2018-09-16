@@ -13,5 +13,6 @@
 
 # create a new branch first time ！
 
-# creating a new brach is quick and simple 
+# creating a new brach is quick and simple is right for bug 
+# 
 :+1:
